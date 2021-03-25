@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\First HTML page"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Basic HTML"
+	}
+}
