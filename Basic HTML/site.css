@@ -5,10 +5,36 @@ body{
     background-color: #d3d3d3;
 }
 
+/* Style the header */
+header {
+    background-color: #888;
+    padding: 10px;
+    text-align: left;
+    font-size: 15px;
+    color: red;
+
+  }
+  
+/* Style the footer */
+footer {
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: black
+    ;
+  }
+  
+
+
+
+
+
+
 
 form{
+    top:0px;
     column-width: 100%;
-    border: 1px solid black;
+    border: 1px solid red;
     border-radius: 4px;
 }
 
@@ -17,7 +43,8 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: magenta;
+    
     }
   
     li {
@@ -25,6 +52,7 @@ ul {
     }
   
     li a {
+
     display: inline-block;
     color: white;
     text-align: center;
@@ -32,16 +60,38 @@ ul {
     text-decoration: none;
     }
 
-.sitename{
-display: block;
-width: 994px;
-height: 75px;
-padding: 5px;
-border: 5px solid blue;  
-background-color: yellow; 
-}
+   
+    .sittename{
+        display: block;
+        height:75px;
+        width: 200px;
+        padding: 5px;
+        border: 5px solid blue;  
+        background-color: yellow; 
+        }
+        
+    .htmlpage{
+        display: block;
+        position:absolute;
+        right: 450px;
+        text-align: center;
+        width: 200px;
+        top:0px;
+        height: 75px;
+        padding: 5px;
+        border: 5px solid green;  
+        background-color: cyan; 
+        }
+    
+    
 
 
 
 
 
+
+
+
+
+
+    
