@@ -1,0 +1,47 @@
+body{
+    width:1024px;
+    margin:auto;
+    font-family:sans-serif;
+    background-color: #d3d3d3;
+}
+
+
+form{
+    column-width: 100%;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    }
+  
+    li {
+    float: left;
+    }
+  
+    li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    }
+
+.sitename{
+display: block;
+width: 994px;
+height: 75px;
+padding: 5px;
+border: 5px solid blue;  
+background-color: yellow; 
+}
+
+
+
+
+
