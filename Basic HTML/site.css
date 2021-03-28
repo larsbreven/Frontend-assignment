@@ -1,35 +1,28 @@
 body{
     width:1024px;
+    height: auto;
     margin:auto;
     font-family:sans-serif;
     background-color: #d3d3d3;
 }
 
-/* Style the header */
 header {
     background-color: #888;
-    padding: 10px;
+    padding: 30px;
     text-align: left;
-    font-size: 15px;
+    font-size: 0px;
     color: red;
 
   }
   
-/* Style the footer */
+
 footer {
     background-color: #777;
     padding: 10px;
     text-align: center;
-    color: black
-    ;
+    color: black;
   }
   
-
-
-
-
-
-
 
 form{
     top:0px;
@@ -61,12 +54,13 @@ ul {
     }
 
    
-    .sittename{
+    .sitename{
         display: block;
-        height:75px;
+        top:0px;
+        height:30px;
         width: 200px;
-        padding: 5px;
-        border: 5px solid blue;  
+        padding: 15px;
+        border: 0px solid blue;  
         background-color: yellow; 
         }
         
@@ -74,12 +68,13 @@ ul {
         display: block;
         position:absolute;
         right: 450px;
+        text-transform: uppercase;
         text-align: center;
         width: 200px;
         top:0px;
-        height: 75px;
-        padding: 5px;
-        border: 5px solid green;  
+        height: 30px;
+        padding: 15px;
+        border: 0px;
         background-color: cyan; 
         }
     
