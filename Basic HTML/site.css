@@ -2,7 +2,7 @@ body{
     width:1024px;
     height: auto;
     margin:auto;
-    font-family:sans-serif;
+    font-family: sans-serif;
     background-color: #d3d3d3;
 }
 
@@ -10,9 +10,8 @@ header {
     background-color: #888;
     padding: 30px;
     text-align: left;
-    font-size: 0px;
+    font-size: 15px;
     color: red;
-
   }
   
 
@@ -62,11 +61,11 @@ ul {
         padding: 15px;
         border: 0px solid blue;  
         background-color: yellow; 
-        }
+    }
         
-    .htmlpage{
+    .htmlpage {
         display: block;
-        position:absolute;
+        position: absolute;
         right: 450px;
         text-transform: uppercase;
         text-align: center;
